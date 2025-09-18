@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-code-runner",
+  "name": "@iflow-mcp/mcp-server-code-runner",
   "version": "0.1.8",
   "mcpName": "io.github.formulahendry/code-runner",
   "type": "module",
